@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ANT_Task2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ANT_Task2_jar</output-path>
+    <root id="archive" name="ANT_Task2.jar">
+      <element id="module-output" name="ANT_Task2" />
+    </root>
+  </artifact>
+</component>
